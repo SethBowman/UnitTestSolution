@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\repos2\UnitTestSolution\MainProject\bin\Debug\net7.0\MainProject.exe
+C:\Users\brand\OneDrive\Desktop\repos2\UnitTestSolution\MainProject\bin\Debug\net7.0\MainProject.deps.json
+C:\Users\brand\OneDrive\Desktop\repos2\UnitTestSolution\MainProject\bin\Debug\net7.0\MainProject.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\repos2\UnitTestSolution\MainProject\bin\Debug\net7.0\MainProject.dll
+C:\Users\brand\OneDrive\Desktop\repos2\UnitTestSolution\MainProject\bin\Debug\net7.0\MainProject.pdb
+C:\Users\brand\OneDrive\Desktop\repos2\UnitTestSolution\MainProject\obj\Debug\net7.0\MainProject.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\repos2\UnitTestSolution\MainProject\obj\Debug\net7.0\MainProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\repos2\UnitTestSolution\MainProject\obj\Debug\net7.0\MainProject.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\repos2\UnitTestSolution\MainProject\obj\Debug\net7.0\MainProject.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\repos2\UnitTestSolution\MainProject\obj\Debug\net7.0\MainProject.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\repos2\UnitTestSolution\MainProject\obj\Debug\net7.0\MainProject.dll
+C:\Users\brand\OneDrive\Desktop\repos2\UnitTestSolution\MainProject\obj\Debug\net7.0\refint\MainProject.dll
+C:\Users\brand\OneDrive\Desktop\repos2\UnitTestSolution\MainProject\obj\Debug\net7.0\MainProject.pdb
+C:\Users\brand\OneDrive\Desktop\repos2\UnitTestSolution\MainProject\obj\Debug\net7.0\MainProject.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\repos2\UnitTestSolution\MainProject\obj\Debug\net7.0\ref\MainProject.dll
